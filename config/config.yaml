@@ -1,0 +1,12 @@
+world:
+  size:
+    x_axis: 1000
+    y_axis: 1000
+
+simulation:
+  iterations: 1000
+  speed: 0
+  beginning_organisms_count: 20
+
+organism:
+  life_length_start: 50
